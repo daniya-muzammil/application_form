@@ -20,7 +20,7 @@
     text-align: center;
 
     background-color: aliceblue;
-     
+    
 
 }*/
 #logo{
@@ -101,12 +101,14 @@ address{
 }
 
 #cond{
+   
     display:block;
   padding: 1em;
   margin: 2em;
   border: 3px solid #ddd;
   background-color: #eee;
   max-width: 800px;
+    
 }
 
 .dash{
