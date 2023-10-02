@@ -2,11 +2,12 @@
 
 #outline{
     border:1px solid black;
-/*     height:auto; */
+    /* height:auto; */
     /*margin:5px 250px 5px 250px;*/
     margin:auto;
     width:900px;
     padding: 2%;
+    
     
 }
 /*#logo_title{
@@ -25,21 +26,23 @@
 #logo{
     top:0;
     left:0;
+    /* width:120px; */
     width:120px;
     height: 120px;
-    padding-top:20px;
-    margin-top:40px;
+    /* padding-top:20px;
+    margin-top:40px; */
     display:inline;
+    
     
    
 }
 #title{
-    padding: 20px;
-    width:70%;
-    height: auto;
+    /* padding: 20px; */
+    /* width:70%;
+    height: 120px; */
     text-align: center;
-    margin:40px 0px 0px 20px;
-    display: inline;
+    margin-left:10%;
+    display: inline; 
     }
 address{
     margin-bottom:15px;
