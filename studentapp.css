@@ -1,0 +1,186 @@
+*{
+    padding: 0;
+    margin:0 10px 0px 10px;
+}
+
+#outline{
+    border:1px solid black;
+    height:auto;
+    /*margin:5px 250px 5px 250px;*/
+    margin:auto;
+    width:900px;
+    
+}
+/*#logo_title{
+    margin:0;
+    margin-left: 10%;
+    top:0;
+    width:100%;
+    height:180px;
+    display: inline;
+    text-align: center;
+
+    background-color: aliceblue;
+    
+
+}*/
+#logo{
+    top:0;
+    left:0;
+    width:120px;
+    height: 120px;
+    padding-top:20px;
+    margin-top:40px;
+    display:inline;
+    
+   
+}
+#title{
+    padding: 20px;
+    width:70%;
+    height: auto;
+    text-align: center;
+    margin:40px 0px 0px 20px;
+    display: inline;
+    }
+address{
+    margin-bottom:15px;
+}
+#photo_section{
+    
+    /*background-color: red;*/
+    height:200px;
+
+    
+}
+/*#details{
+    height: 200px;
+    background-color: azure;
+}*/
+
+/*#one{
+    border: solid black;
+    text-align: center;
+    width: 60%;
+    padding: 0px 20px 0px 150px;
+    display: inline;
+}*/
+#two{
+    width:100px;
+    height:100px;
+    border:1px solid black;
+    margin-left:80%;
+    padding:10px;
+    font-weight: bold;
+    text-align: center;
+    margin-top:-3;
+    /*display: inline;*/
+}
+
+.stud{
+    text-align: center;
+}
+#box{
+    display: flex;
+}
+
+#personal{
+    margin-left:20px;
+}
+
+
+.dashes{
+    border:none;
+    border-bottom: 1px solid black;
+    width:400px;
+}
+
+#points{
+    margin:40px;
+}
+
+#cond{
+    text-align: center;
+}
+
+.dash{
+    border:none;
+    border-bottom: 1px solid black;
+    width:150px;
+
+}
+
+#sig{
+    text-align: end;
+}
+table{
+    text-align: center;
+    font-weight: bold;
+    
+    border-collapse: collapse;
+    width:50%;
+    margin:0px 100px 0px 230px;
+  
+}
+
+h3{
+    text-align: center;
+}
+
+#but{
+    margin:auto 250px auto 350px;
+}
+
+#start{
+    text-align:start;
+    
+}
+
+
+#end{
+    text-align:end;
+    
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button1 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+    
+  }
+  
+  .button1:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid red;
+   
+  }
+  
+  .button2:hover {
+    background-color: red;
+    color: white;
+  }
+
+  input[type='file'] {
+    color: rgba(0, 0, 0, 0);
+    margin-top:15px;
+  }
